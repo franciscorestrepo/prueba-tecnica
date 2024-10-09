@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "45ec1878-42c8-4c64-ab3e-9da1cfe2d863",
+		"name": "prueba tecnica",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15110478"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8082/api/liquidacion/calcular",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\n    {\n        \"tipo_identificacion\": 1,\n        \"numero_identificacion\": \"51000001\",\n        \"valor_asegurado\": 500000\n        \n    }\n\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/liquidacion/calcular",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"liquidacion",
+						"calcular"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
