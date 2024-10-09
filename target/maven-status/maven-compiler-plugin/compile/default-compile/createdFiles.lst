@@ -1,0 +1,12 @@
+com/example/asegurados/model/Asegurado.class
+com/example/asegurados/dto/AseguradoDTO.class
+com/example/asegurados/model/Prima.class
+com/example/asegurados/dto/LiquidacionDTO$AmparoLiquidacion.class
+com/example/asegurados/repository/AseguradoRepository.class
+com/example/asegurados/repository/AmparoRepository.class
+com/example/asegurados/controller/LiquidacionController.class
+com/example/asegurados/repository/PrimaRepository.class
+com/example/asegurados/AseguradosApplication.class
+com/example/asegurados/service/LiquidacionService.class
+com/example/asegurados/model/Amparo.class
+com/example/asegurados/dto/LiquidacionDTO.class

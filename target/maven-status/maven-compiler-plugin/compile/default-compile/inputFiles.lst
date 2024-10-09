@@ -1,0 +1,11 @@
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/AseguradosApplication.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/controller/LiquidacionController.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/dto/AseguradoDTO.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/dto/LiquidacionDTO.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/model/Amparo.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/model/Asegurado.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/model/Prima.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/repository/AmparoRepository.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/repository/AseguradoRepository.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/repository/PrimaRepository.java
+/Users/franciscoacosta/Documents/asegurados/src/main/java/com/example/asegurados/service/LiquidacionService.java
